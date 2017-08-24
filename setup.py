@@ -41,6 +41,5 @@ setup(
         'Operating System :: OS Independent',
         'Topic :: Software Development :: Libraries :: Python Modules',
         'Topic :: Software Development :: Build Tools',
-        'Topic :: Internet :: WWW/HTTP :: Static Site Generator',
         ],
 )
